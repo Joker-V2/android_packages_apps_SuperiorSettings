@@ -233,6 +233,16 @@
         android:title="@string/device_realme" >
 
     <Preference
+        android:key="maintainer_RMX1971"
+        android:title="@string/device_RMX1971"
+        android:summary="@string/device_RMX1971_description"
+        android:icon="@drawable/ic_devs_phone">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://t.me/kssrao13882" />
+    </Preference>
+
+    <Preference
         android:key="maintainer_RMX1901"
         android:title="@string/device_RMX1901"
         android:summary="@string/device_RMX1901_description"

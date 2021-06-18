@@ -111,6 +111,9 @@
     <string name="maintainer_jason_git" translatable="false">enweazudaniel</string>
     <string name="device_jason">Xiaomi Mi Note 3</string>
     <string name="device_jason_description">jason\nDanny</string>
+    <string name="maintainer_RMX1971_git" translatable="false">kssrao13882</string>
+    <string name="device_RMX1971">Realme 5 Pro</string>
+    <string name="device_RMX1971_description">RMX1971\nSamba Siva Rao K</string>
 	
     <!-- Categories -->
     <string name="button_title">Buttons</string>
